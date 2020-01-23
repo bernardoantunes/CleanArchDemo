@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Application", "CleanArch.Application", "{54C477B6-67D0-4829-8BDD-BB7DE4B37CAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Domain", "CleanArch.Domain", "{8CBAFD46-52F5-492E-90E9-3359563EB8CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Infra.IoC", "CleanArch.Infra.IoC", "{60BBDA95-D461-4CEF-8209-B0AEEE4E57FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CleanArch.Infra.Data", "CleanArch.Infra.Data", "{EBA7C7ED-3B5E-4B6C-AAEB-BC7C4788EAC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClearArch.UI.MVC", "ClearArch.UI.MVC", "{ACE4BE34-F892-40F0-B760-3C45EF5EC45B}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {134191C3-7A7F-4485-B921-0A5BDA7FF8C9}
+	EndGlobalSection
+EndGlobal
